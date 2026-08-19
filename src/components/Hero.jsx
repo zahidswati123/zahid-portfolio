@@ -16,7 +16,7 @@ function Hero() {
               </div>
 
               <p className="hero-name">
-                Hello, I&apos;m Yasir Swati
+                Hello, I&apos;m Zahid Aslam
               </p>
 
               <h1 className="hero-title">
@@ -105,7 +105,7 @@ function Hero() {
                 <p className="code-indent">
                   name:{" "}
                   <span className="code-string">
-                    &quot;Yasir Swati&quot;
+                    &quot;Zahid Aslam &quot;
                   </span>,
                 </p>
 

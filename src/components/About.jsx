@@ -69,11 +69,11 @@ function About() {
             <div className="about-content">
 
               <h2 className="about-intro-title">
-                I'm Yasir Swati, a Software Engineer & Full Stack Developer
+                I'm Zahid Aslam, a Software Engineer & Full Stack Developer
               </h2>
 
               <p>
-                I’m Yasir Swati, a passionate{" "}
+                I’m Zahid Aslam, a passionate{" "}
                 <strong>Software Engineer and Full Stack Developer</strong>{" "}
                 focused on building modern, responsive, scalable, and
                 user-friendly digital experiences.

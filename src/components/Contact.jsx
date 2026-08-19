@@ -57,14 +57,14 @@ function Contact() {
 
                   <div>
                     <span>Email</span>
-                    <strong>Yasirswati727@gmail.com</strong>
+                    <strong>zswati171@gmail.com</strong>
                   </div>
 
                   <FaArrowRight className="contact-arrow" />
                 </a>
 
                 <a
-                  href="https://github.com/yasirswati123"
+                  href="https://github.com/zahidswati123"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -74,14 +74,14 @@ function Contact() {
 
                   <div>
                     <span>GitHub</span>
-                    <strong>yasirswati123</strong>
+                    <strong>zahidswati123</strong>
                   </div>
 
                   <FaArrowRight className="contact-arrow" />
                 </a>
 
                 <a
-                  href="https://www.linkedin.com/in/yasir-swati-b95122241/"
+                  href="https://www.linkedin.com/in/zahid-aslam-8367b326a/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -91,14 +91,14 @@ function Contact() {
 
                   <div>
                     <span>LinkedIn</span>
-                    <strong>Yasir Swati</strong>
+                    <strong>Zahid Aslam</strong>
                   </div>
 
                   <FaArrowRight className="contact-arrow" />
                 </a>
 
                 <a
-                  href="https://wa.me/923305568951"
+                  href="https://wa.me/923259564538"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -108,7 +108,7 @@ function Contact() {
 
                   <div>
                     <span>WhatsApp</span>
-                    <strong>+92 330 5568951</strong>
+                    <strong>+92 3259564538</strong>
                   </div>
 
                   <FaArrowRight className="contact-arrow" />

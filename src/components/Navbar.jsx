@@ -26,7 +26,7 @@ function Navbar() {
 
         <NavLink className="navbar-brand brand-name" to="/">
           <span className="brand-icon">&lt;/&gt;</span>
-          Yasir Swati
+          Zahid Aslam
         </NavLink>
 
         <button

@@ -4,7 +4,7 @@ function Footer() {
       <div className="container-fluid px-lg-5 px-3">
         <div className="footer-content">
           <h2>
-            Yasir Swati<span>.</span>
+            Zahid Aslam<span>.</span>
           </h2>
 
           <p>
@@ -13,7 +13,7 @@ function Footer() {
 
           <div className="footer-bottom">
             <span>
-              © {new Date().getFullYear()} Yasir Swati. All rights reserved.
+              © {new Date().getFullYear()} Zahid Aslam. All rights reserved.
             </span>
 
             <span>
