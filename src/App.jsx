@@ -1,12 +1,13 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar.jsx";
-import Home from "./pages/Home.jsx";
+import Home from "./Pages/Home.jsx";
 import About from "./components/About.jsx";
 import Skills from "./components/Skills.jsx";
 import Projects from "./components/Projects.jsx";
 import Services from "./components/Services.jsx";
 import Footer from "./components/Footer.jsx";
+
 
 function App() {
   return (
